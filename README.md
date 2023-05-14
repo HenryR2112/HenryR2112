@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HenryR2112
-- 👀 I’m interested in Quant, Web Dev, and Project Management
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to work on HFT projects or chat with anyone!
+- 👀 I’m interested in Human-AI Interaction, Data Sci, and Design!
+- 🌱 I’m currently learning Python, Rust, R, Java, and SQL! 
 - 📫 How to reach me Henry.ramstad@gmail.com
 
 
