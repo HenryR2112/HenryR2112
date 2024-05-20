@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenryR2112
-- 👀 I’m interested in Human-AI Interaction, Data Sci, and Design!
-- 🌱 I’m currently learning Python, Rust, R, Java, and SQL! 
+- 👀 I’m interested in Data Science, Scientific computing, and ML!
+- 🌱 I’m currently learning Rust! 
 - 📫 How to reach me Henry.ramstad@gmail.com
 
 
